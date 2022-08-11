@@ -10,9 +10,12 @@ h1 {
     
 }
 
+img{
+    margin: 10px;
+}
+
 ul{
     display: inline-flex;
-    max-width: auto;
-    max-height: auto;
+    height: 40vh;
     padding: 0;
 }
